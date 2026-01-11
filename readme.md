@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm <b>Katta Aakash</b></h1>
 <h3 align="center" style="color:#2c3e50;">
-CSE (Artificial Intelligence) | Backend & AI Enthusiast | Aspiring Software Engineer 💻🤖
+CSE (Artificial Intelligence) | Frontend & AI Enthusiast | Aspiring Software Engineer 💻🤖
 </h3>
 
 <p align="center">
