@@ -24,8 +24,8 @@ I aim to create reliable, high-impact software solutions for real-world problems
 ## 🌱 About Me
 - 🎓 B.Tech in CSE (AI) – **Sri Vasavi Engineering College** (CGPA: 7.31)
 - 💡 Strong in **Java, DSA, Frontend Development**
-- 🤖 Hands-on experience with **AI/ML & Full-Stack Development**
-- 📫 Reach me: **aakashkatta7463@gmail.com**
+- 🤖 Hands-on experience with **Frontend Development**
+- 📫 Reach me: **aakashaakash66666@gmail.com**
 
 ---
 
