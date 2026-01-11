@@ -96,20 +96,6 @@ I aim to create reliable, high-impact software solutions for real-world problems
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashkatta&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkatta&layout=compact&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashkatta&theme=radical" width="60%"/>
-</p>
-
----
-
 ## ⚡ Fun Fact
 > I believe **strong fundamentals + consistency = top software engineer** 💡  
 > ☕ Java & DSA fuel my backend journey 🚀
